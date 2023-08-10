@@ -1,16 +1,11 @@
-# network_request
+# Network Request
 
-A new Flutter project.
+an app for getting a joke from "https://official-joke-api.appspot.com/random_joke" by API call in Flutter
 
-## Getting Started
+## screenshot
+![network_request](https://github.com/merihcavdar/network_request/assets/84540989/85e5128c-ce1e-439a-b07b-7f61215bbd9e)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- http package
+- http.get, uri, response.body
+- Builder widget
